@@ -1,0 +1,18 @@
+.label {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+  margin-left: 300px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: red;
+  border-color: red;
+  border-radius: 5px;
+}

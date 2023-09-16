@@ -1,0 +1,32 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.title {
+  display: flex;
+  font-size: 40px;
+  color: blue;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 10px;
+  color: white;
+  background-color: green;
+  border-color: green;
+  border-radius: 5px;
+  font-size: 20px;
+}
